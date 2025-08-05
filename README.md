@@ -33,5 +33,5 @@ Clean and preprocess the **Netflix Movies and TV Shows** dataset using Python an
 
 ---
 
-## 👨‍💻 Author
+## Author
 Deekshith Patkar (Data Analyst Intern)
